@@ -20,4 +20,6 @@ public class MyArray<T> {
     public T get(int index) { // 교재 419
         return (T)arr[index];
     }
+
+    //
 }
