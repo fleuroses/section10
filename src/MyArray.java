@@ -13,6 +13,7 @@ public class MyArray<T> {
         this.size = size;
     }
 //
+    //
     public void add(T data, int index) {
         arr[index] = data;
     }
