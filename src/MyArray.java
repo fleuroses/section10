@@ -12,7 +12,7 @@ public class MyArray<T> {
         arr = new Object[size];
         this.size = size;
     }
-
+//
     public void add(T data, int index) {
         arr[index] = data;
     }
